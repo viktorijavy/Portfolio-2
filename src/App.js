@@ -8,18 +8,18 @@ import Projects from "./components/Projects";
 const App = () => {
 
   return (
-    <>
+    <div>
      <Navbar/>
      <Main/>
      
-   
+     <hr />
      
      <About/>
      <hr />
      <Skills/>
      <hr />
      <Projects/>
-    </>
+    </div>
   );
 }
 
