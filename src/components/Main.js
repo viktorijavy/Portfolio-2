@@ -21,7 +21,7 @@ const Main = () => {
           <p className="text-[#8892b0] py-4 max-w-[700px] sm:text-xl text-sm">
             currently I am focusing on building responsive full-stack and front-end applications, mostly in React.</p>
           <div>
-            <button className="text-white rounded-2xl group border flex items-center sm:px-5 sm:py-2 px-2 py-1 my-2 hover:bg-[#00c4cc] hover:border-[#00c4cc]">
+            <button className="text-white group border flex items-center sm:px-5 sm:py-2 px-2 py-1 my-2 hover:bg-[#00c4cc] hover:border-[#00c4cc]">
               <Link to="projects" spy={true} smooth={true} offset={50} duration={500}>
                 See my work
               </Link>
