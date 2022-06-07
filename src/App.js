@@ -3,6 +3,7 @@ import Main from "./components/Main";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 
 
 const App = () => {
@@ -12,13 +13,15 @@ const App = () => {
      <Navbar/>
      <Main/>
      
-     <hr />
+    
      
      <About/>
-     <hr />
+     
      <Skills/>
-     <hr />
+     
      <Projects/>
+    
+     <Contact/>
     </div>
   );
 }

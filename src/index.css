@@ -6,7 +6,7 @@
 
 @layer base {
   body {
-    @apply font-[Montserrat];
+    @apply font-[Forum];
   }
   li {
     @apply px-4;

@@ -5,8 +5,8 @@ const About = () => {
 
     return (
 
-        <div name="projects" className="bg-[#001219] w-full h-full text-gray-300">
-           <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+        <div name="about" className="bg-[#001219] w-full h-full text-gray-300">
+           <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full border-t">
            <div className="md:mx-0 ml-10 py-[100px]">
                 <p className="text-5xl font-bold">about.</p>
                 
