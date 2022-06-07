@@ -16,17 +16,20 @@ const Contact = () => {
                 <input
                     className="p-2 bg-[#ccd6f6] text-black"
                     type="text"
+                    required
                     name="name"
                     placeholder="name" />
 
                 <input
                     className="my-4 p-2 bg-[#ccd6f6] text-black"
                     type="email"
+                    required
                     name="email"
                     placeholder="email" />
 
                 <textarea
                     name="message"
+                    required
                     id=""
                     cols="30"
                     rows="10"
@@ -39,7 +42,7 @@ const Contact = () => {
                 <button
                     type="submit"
                     className="border-2 hover:bg-[#00c4cc] hover:border-[#00c4cc] px-4 py-3 mx-auto my-8 flex items-center"
-                > Submit </button>
+                > Get in Touch! </button>
             </form>
 
         </div>
