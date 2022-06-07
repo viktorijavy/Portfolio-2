@@ -23,7 +23,7 @@ const Main = () => {
           <div>
             <button className="text-white group border flex items-center sm:px-5 sm:py-2 px-2 py-1 my-2 hover:bg-[#00c4cc] hover:border-[#00c4cc]">
               <Link to="projects" spy={true} smooth={true} offset={50} duration={500}>
-                See my projects
+                View my projects
               </Link>
 
               <span className="group-hover:rotate-90 duration-300">
