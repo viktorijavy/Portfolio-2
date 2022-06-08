@@ -24,9 +24,9 @@ const About = () => {
                            <br/> My journey into web development started in
                             the summer of 2021 when I attended <span className="bg-[#149296] text-xl px-1"> StartSteps</span>   
                              compass course where I was introduced to UX/UI design, data science,
-                            digital marketing and web development. I went for the latter and soon after attended full stack web development bootcamp
+                            digital marketing and web development. I went for the latter and soon after attended a full stack web development bootcamp
                             at <span className="bg-[#149296] text-xl px-1">Ironhack</span>, Berlin. During and since the bootcamp 
-                            I have built full stack applications in <span className="bg-[#149296] text-xl px-1"> JavaScript 
+                            I have built full stack applications in <span className="bg-[#149296] text-xl px-1"> JavaScript(React) 
                             </span>  in the frontend and <span className="bg-[#149296] text-xl px-1">Node</span>  in the backend.
                             My main focus and interest is however currently on the <span className='bg-[#149296] text-xl px-1'> frontend</span> 
                               as I love building and designing beautiful and user
