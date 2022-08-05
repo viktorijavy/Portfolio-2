@@ -18,19 +18,20 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p className="md:pt-20 text-justify md:px-0 px-4">
+                        <p className="md:pt-20 text-justify md:px-0 px-4 font-['Didact-Gothic'] text-xl ">
                             I am a career changer from Lithuania with a background in hospitality and customer service. 
-                            After pursuing a Bachelor degree in (human) languages and linguistics and decided to go for computer languages.
+                            
                            <br/> My journey into web development started in
                             the summer of 2021 when I attended <span className="bg-[#149296] text-xl px-1"> StartSteps</span>   
                              compass course where I was introduced to UX/UI design, data science,
                             digital marketing and web development. I went for the latter and soon after attended a full stack web development bootcamp
                             at <span className="bg-[#149296] text-xl px-1">Ironhack</span>, Berlin. During and since the bootcamp 
                             I have built full stack applications in <span className="bg-[#149296] text-xl px-1"> JavaScript(React) 
-                            </span>  in the frontend and <span className="bg-[#149296] text-xl px-1">Node</span>  in the backend.
-                            My main focus and interest is however currently on the <span className='bg-[#149296] text-xl px-1'> frontend</span> 
+                            </span>  in the frontend and <span className="bg-[#149296] text-xl px-1">NodeJS</span>  in the backend.
+                            Although I am more experienced in the frontend development I am equally interested in frontend and full stack opportunities.
+                            {/* My main focus and interest is however currently on the <span className='bg-[#149296] text-xl px-1'> frontend</span> 
                               as I love building and designing beautiful and user
-                            friendly interfaces. Besides I have a strong interest in UI design and have an eye for aesthetics.
+                            friendly interfaces. Besides I have a strong interest in UI design and have an eye for aesthetics. */}
                             <br />
                             
                         </p>
