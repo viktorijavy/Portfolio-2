@@ -2,7 +2,8 @@ import React from 'react'
 import { HiArrowNarrowRight } from 'react-icons/hi'
 import { Link } from 'react-scroll'
 import grafik from '../assets/grafik.png'
-import headerGraphic from '../assets/headerGraphic.png'
+import grafik2 from '../assets/graphic3.png'
+
 
 
 const Main = () => {
@@ -39,8 +40,10 @@ const Main = () => {
 
         <div className="sm:pt-0 pt-4">
 
-          <img src={grafik} alt="" className="md:w-[240px] w-[150px] md:visible invisible " />
+          <img src={grafik2} alt="" className="md:w-[340px] w-[250px] " />
         </div>
+
+       
 
       </div>
 

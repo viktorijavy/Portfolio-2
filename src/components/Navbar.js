@@ -58,28 +58,28 @@ const Navbar = () => {
 
             {/* mobile-menu */}
             <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#001219] flex flex-col justify-center items-center'}>
-                <li className="py-6 text-4xl">
-                    <Link activeClass="active" to="main" spy={true} smooth={true} offset={50} duration={500}>
+                <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
+                    <Link onClick={handleClick} to="main" spy={true} smooth={true} offset={50} duration={500}>
                         Home
                     </Link>
                 </li>
-                <li className="py-6 text-4xl">
-                    <Link activeClass="active" to="about" spy={true} smooth={true} offset={50} duration={500}>
+                <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
+                    <Link onClick={handleClick} to="about" spy={true} smooth={true} offset={50} duration={500}>
                         About
                     </Link>
                 </li>
-                <li className="py-6 text-4xl">
-                    <Link activeClass="active" to="skills" spy={true} smooth={true} offset={50} duration={500}>
+                <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
+                    <Link onClick={handleClick} to="skills" spy={true} smooth={true} offset={50} duration={500}>
                         Skills
                     </Link>
                 </li>
-                <li className="py-6 text-4xl">
-                    <Link activeClass="active" to="projects" spy={true} smooth={true} offset={50} duration={500}>
+                <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
+                    <Link onClick={handleClick} to="projects" spy={true} smooth={true} offset={50} duration={500}>
                         Projects
                     </Link>
                 </li>
-                <li className="py-6 text-4xl">
-                    <Link activeClass="active" to="contact" spy={true} smooth={true} offset={50} duration={500}>
+                <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
+                    <Link onClick={handleClick} to="contact" spy={true} smooth={true} offset={50} duration={500}>
                         Contact
                     </Link>
                 </li>
