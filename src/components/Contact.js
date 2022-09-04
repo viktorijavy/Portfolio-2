@@ -10,7 +10,7 @@ const Contact = () => {
             >
                 <div className="py-8">
                     <h2 className="text-5xl">Contact</h2>
-                    <p> Submit the form below or write me an email at: viktorija.qun@gmail.com</p>
+                    <p className="text-lg font-[Montserrat] pt-2"> Submit the form below or write me an email at: viktorija.qun@gmail.com</p>
                 </div>
 
                 <input
@@ -41,7 +41,7 @@ const Contact = () => {
 
                 <button
                     type="submit"
-                    className="border-2 hover:bg-[#00c4cc] hover:border-[#00c4cc] px-4 py-3 mx-auto my-8 flex items-center"
+                    className="border-2 border-gray-400 hover:bg-[#00c4cc] hover:border-[#00c4cc] hover:text-white px-4 py-3 mx-auto my-8 flex items-center"
                 > Get in Touch! </button>
             </form>
 
