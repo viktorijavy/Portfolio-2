@@ -21,9 +21,9 @@ const Main = () => {
           {/* <p className="text-[#00c4cc] sm:text-xl text-sm"> hi, my name is</p> */}
           <h1 className="text-white text-3xl sm:text-7xl  font-['Montserrat'] animate-bounce-short">
             Viktorija Kuneviciute</h1>
-          <h3 className="text-xl sm:text-3xl text-[#8892b0] font-['Montserrat'] mt-3"> a full stack developer,<br /> based in Berlin </h3>
+          <h3 className="text-xl sm:text-3xl text-[#8892b0] font-['Montserrat'] mt-3"> a frontend developer,<br /> based in Berlin </h3>
           <p className="text-[#8892b0] py-4 max-w-[700px] sm:text-xl text-sm font-['Montserrat']">
-            currently I am focusing on building responsive full-stack and front-end applications, mostly in React.</p>
+           although familiar with the backend,  currently I am focusing on the frontend side of development. My passion lies in creating intuitive and user-friendly interfaces that enhance the overall user experience.</p>
           <div>
             <button className="text-gray-400 text-lg group border border-gray-400 flex items-center sm:px-5 sm:py-2 px-2 py-1 my-4 hover:bg-[#00c4cc] hover:border-[#00c4cc] hover:text-white">
               <Link to="projects" spy={true} smooth={true} offset={50} duration={500}>

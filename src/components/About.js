@@ -25,13 +25,10 @@ const About = () => {
                             the summer of 2021 when I attended <span className="bg-[#149296] text-xl px-1 text-gray-300"> StartSteps</span>   
                              compass course where I was introduced to UX/UI design, data science,
                             digital marketing and web development. I went for the latter and soon after attended a full stack web development bootcamp
-                            at <span className="bg-[#149296] text-xl px-1 text-gray-300">Ironhack</span>, Berlin. During and since the bootcamp 
-                            I have built full stack applications in <span className="bg-[#149296] text-xl px-1 text-gray-300"> JavaScript(React) 
-                            </span>  in the frontend and <span className="bg-[#149296] text-xl px-1 text-gray-300">NodeJS</span>  in the backend.
-                            Although I am more experienced in the frontend development I am equally interested in frontend and full stack opportunities.
-                            {/* My main focus and interest is however currently on the <span className='bg-[#149296] text-xl px-1'> frontend</span> 
-                              as I love building and designing beautiful and user
-                            friendly interfaces. Besides I have a strong interest in UI design and have an eye for aesthetics. */}
+                            at <span className="bg-[#149296] text-xl px-1 text-gray-300">Ironhack</span>, Berlin. In September 2022, I joined Creatext, a startup in the field of AI,
+                            where I was responsible for the frontend of the web-app and chrome extension. 
+                           
+                         
                             <br />
                             
                         </p>

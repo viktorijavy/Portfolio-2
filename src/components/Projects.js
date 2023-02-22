@@ -64,13 +64,7 @@ const Projects = () => {
                                 Github
                             </a>
 
-                            <a
-                                className="border py-2 px-4 hover:bg-[#00c4cc] hover:border-[#00c4cc] hover:text-white"
-                                href="https://un-forgotten.herokuapp.com/"
-                                target="_blank"
-                                rel="noreferrer noopener">
-                                Demo
-                            </a>
+                       
 
                         </div>
 
@@ -107,7 +101,7 @@ const Projects = () => {
                         <h3 className="text-3xl pb-6"> event app</h3>
                         <p className="text-justify md:px-0 px-4 text-lg font-[Montserrat]">This is full stack crud application - event app.
                             Users can see, create, edit and delete events and invite people, write and delete comments.
-                            It is a collaboration project with 1 other teammate.
+                            It is a collaboration project with 1 other teammate. Login with: username: 1@2.de password: 123456
                         </p>
                         <p className="pt-2 text-left md:px-0 px-4 tracking-wider">HTML/CSS(SASS) HANDELBARS JAVASCRIPT MONGODB EXPRESS CLOUDINARY HEROKU </p>
                         <div className="mt-6">
@@ -122,7 +116,7 @@ const Projects = () => {
 
                             <a
                                 className="border py-2 px-4 hover:bg-[#00c4cc] hover:border-[#00c4cc] hover:text-white"
-                                href="https://event-app-ironhack.herokuapp.com/login"
+                                href="https://event-app-ironhack.onrender.com/login"
                                 target="_blank"
                                 rel="noreferrer noopener"
                             >
