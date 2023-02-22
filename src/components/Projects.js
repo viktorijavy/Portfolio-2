@@ -31,7 +31,7 @@ const Projects = () => {
                         <h3 className="text-3xl pb-6"> news app</h3>
                         <p className="text-justify md:px-0 px-4 text-lg font-[Montserrat]"> news app that displays popular news by category and by country,
                             shows current weather in selected location and street events in Berlin that can be filtered
-                            by district. React frontend and Node backend. Data comes from 2 external APIs and from a local dataset.  .</p>
+                            by district. React frontend and Node backend. Data comes from 2 external APIs and from a local dataset.</p>
                         <p className="pt-2  md:px-0 px-4 tracking-wider text-justify">JAVASCRIPT HTML/CSS REACT NODEJS EXPRESS API </p>
                         <div className="mt-6">
                             <a
