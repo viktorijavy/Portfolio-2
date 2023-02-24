@@ -5,9 +5,7 @@ import project3 from '../assets/project3.mp4'
 
 const Projects = () => {
 
-
     return (
-
 
         <div name="projects" className="bg-[#001219] w-full h-full  text-gray-400">
             <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full border-t">
@@ -46,8 +44,6 @@ const Projects = () => {
 
                     </div>
 
-
-
                     <div className="">
                         <h3 className="text-3xl pb-6 md:border-0 border-t border-[#00c4cc] md:pt-0 pt-8"> unforgotten places</h3>
                         <p className="text-justify md:px-0 px-4 text-lg font-[Montserrat]">a website for documenting abandoned buildings in
@@ -63,27 +59,19 @@ const Projects = () => {
                                 rel="noreferrer noopener">
                                 Github
                             </a>
-
-                       
-
                         </div>
 
                     </div>
-
 
                     <div className="">
                         <video className="hover:scale-105 duration-500" autoPlay="autoplay" loop="loop" muted>
                             <source
                                 src={project3}
                                 type="video/mp4"
-
                             />
                             Your browser does not support the video tag.
                         </video>
                     </div>
-
-
-
 
                     <div className="md:border-0 border-t border-[#00c4cc] md:pt-0 pt-8">
                         <video className="hover:scale-105 duration-500" autoPlay="autoplay" loop="loop" muted>

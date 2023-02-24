@@ -40,6 +40,11 @@ const Navbar = () => {
                     </Link>
                 </li>
                 <li className="hover:scale-105 duration-500 hover:text-[#00c4cc]">
+                    <Link activeClass="active" to="testimonials" spy={true} smooth={true} offset={50} duration={500}>
+                        Testimonials
+                    </Link>
+                </li>
+                <li className="hover:scale-105 duration-500 hover:text-[#00c4cc]">
                     <Link activeClass="active" to="contact" spy={true} smooth={true} offset={50} duration={500}>
                         Contact
                     </Link>
@@ -73,6 +78,11 @@ const Navbar = () => {
                 <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
                     <Link onClick={handleClick} to="projects" spy={true} smooth={true} offset={50} duration={500}>
                         Projects
+                    </Link>
+                </li>
+                <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
+                    <Link onClick={handleClick} to="testimonials" spy={true} smooth={true} offset={50} duration={500}>
+                        Testimonials
                     </Link>
                 </li>
                 <li className="py-6 text-4xl hover:scale-105 hover:text-[#00c4cc]">
